@@ -1,0 +1,20 @@
+D:\progs\MapGen\MapGen\MapGen\bin\Debug\MapGen.exe.config
+D:\progs\MapGen\MapGen\MapGen\bin\Debug\MapGen.exe
+D:\progs\MapGen\MapGen\MapGen\bin\Debug\MapGen.pdb
+D:\progs\MapGen\MapGen\MapGen\obj\Debug\MapGen.csproj.AssemblyReference.cache
+D:\progs\MapGen\MapGen\MapGen\obj\Debug\MapGen.Form1.resources
+D:\progs\MapGen\MapGen\MapGen\obj\Debug\MapGen.Properties.Resources.resources
+D:\progs\MapGen\MapGen\MapGen\obj\Debug\MapGen.csproj.GenerateResource.cache
+D:\progs\MapGen\MapGen\MapGen\obj\Debug\MapGen.csproj.CoreCompileInputs.cache
+D:\progs\MapGen\MapGen\MapGen\obj\Debug\MapGen.exe
+D:\progs\MapGen\MapGen\MapGen\obj\Debug\MapGen.pdb
+D:\Важный мусор\progs\MapGen\MapGen\MapGen\bin\Debug\MapGen.exe.config
+D:\Важный мусор\progs\MapGen\MapGen\MapGen\bin\Debug\MapGen.exe
+D:\Важный мусор\progs\MapGen\MapGen\MapGen\bin\Debug\MapGen.pdb
+D:\Важный мусор\progs\MapGen\MapGen\MapGen\obj\Debug\MapGen.csproj.AssemblyReference.cache
+D:\Важный мусор\progs\MapGen\MapGen\MapGen\obj\Debug\MapGen.Form1.resources
+D:\Важный мусор\progs\MapGen\MapGen\MapGen\obj\Debug\MapGen.Properties.Resources.resources
+D:\Важный мусор\progs\MapGen\MapGen\MapGen\obj\Debug\MapGen.csproj.GenerateResource.cache
+D:\Важный мусор\progs\MapGen\MapGen\MapGen\obj\Debug\MapGen.csproj.CoreCompileInputs.cache
+D:\Важный мусор\progs\MapGen\MapGen\MapGen\obj\Debug\MapGen.exe
+D:\Важный мусор\progs\MapGen\MapGen\MapGen\obj\Debug\MapGen.pdb
